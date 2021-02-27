@@ -14,3 +14,5 @@ falar()// paradgma do Funcional com o OO
 // usando Bind para realizar o processo para realizar o this dentro do oBJ 
 const falarDepessoa=pessoa.falar.bind(pessoa)// sempre tem que passar um argumento para bInd 
 falarDepessoa()// Bind que irá realizar essa amarração da variável 
+
+

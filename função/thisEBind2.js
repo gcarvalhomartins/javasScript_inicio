@@ -9,3 +9,4 @@ function pessoa(){
     }/*.bind(this)*/,1000)
 }
 new pessoa
+

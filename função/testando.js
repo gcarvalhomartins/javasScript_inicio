@@ -24,8 +24,7 @@ nota1.notas(4,5,7)
 
 function NotBrowser(Criarusuario){
          return {
-            newusuario:()=>console.log(`olá novo ${Criarusuario}
-             seja bem vindo a plataforma `)
+            newusuario:()=>console.log(`olá novo ${Criarusuario},seja bem vindo a plataforma `)
          }
     }
 const p9=NotBrowser('Gabriel Martins')

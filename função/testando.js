@@ -27,5 +27,6 @@ function NotBrowser(Criarusuario){
             newusuario:()=>console.log(`olá novo ${Criarusuario},seja bem vindo a plataforma `)
          }
     }
-const p9=NotBrowser('Gabriel Martins')
+const p9=NotBrowser('Elielma Carvalho')
 p9.newusuario()
+

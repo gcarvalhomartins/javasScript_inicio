@@ -42,3 +42,5 @@ function Baskara(ax2,bx,c){
     return resultado
 }
 console.log(Baskara(1,0,3))
+
+

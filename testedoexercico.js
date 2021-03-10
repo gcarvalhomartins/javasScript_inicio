@@ -44,3 +44,11 @@ function Baskara(ax2,bx,c){
 console.log(Baskara(1,0,3))
 
 
+function NotBrowser(criarUsuario){
+    return {
+        Newusuario:()=>console.log(`usuario ${criarUsuario} criado com sucesso`)
+    }
+}
+const expondousuario=NotBrowser('Conseguiu')
+expondousuario.Newusuario()
+

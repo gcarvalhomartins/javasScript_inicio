@@ -51,4 +51,6 @@ function NotBrowser(criarUsuario){
 }
 const expondousuario=NotBrowser('Conseguiu')
 expondousuario.Newusuario()
+// testando saida de seja be vindo ao úsuario 
+
 
